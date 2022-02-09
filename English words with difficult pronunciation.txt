@@ -1,0 +1,413 @@
+Stress on the first syllable:
+accuracy
+arbiter
+category
+interesting
+satire
+
+Stress on the second syllable in the verb and on the first in the noun or the adjective:
+to construct (2nd) vs. a construct (1st)
+to attribute (2nd) vs. an attribute (1st)
+to extract (2nd) vs. an extract (1st)
+to contract (2nd) vs. a contract (1st)
+to progress (2nd) vs. a progress (1st)
+to regress (2nd) vs. a regress (1st)
+to present (2nd) vs. a present (1st)
+to perfect (2nd) vs. perfect (1st)
+to produce (2nd) vs. a produce (1st)
+to record (2nd) vs. a record (1st)
+to object (2nd) vs. an object (1st)
+to insult (2nd) vs. an insult (1st)
+to research (2nd) vs. a research (1st)
+to excerpt (2nd) vs an excerpt (1st)
+to increase (2nd) vs. an increase (1st)
+to decrease (2nd) vs. a decrease (1st)
+to import (2nd) vs. an import (1st)
+to update (2nd) vs. an update (1st)
+to exploit (2nd) vs. an exploit (1st)
+compact (2nd) vs. a compact (1st)
+a concrete (2nd) vs. concrete (1st)
+
+Stress either on 1st or on 2nd syllable:
+by default (2nd) vs. default [setting] (1st)
+a research (also possible on 2nd)
+a reverb (also possible on 2nd)
+henceforth
+
+Stress on the second syllable:
+endurance (4 variants)
+to contribute (2 variants, also on the first syllable)
+to distribute (2 variants, also on the first syllable)
+composite (2 variants, also on the first syllable)
+to interpret
+to develop
+to configure
+computer vs. competency
+insurance
+event
+repository
+executor
+superfluous
+
+Stress on the third syllable:
+pedagogical
+
+Stress in British English vs. American English:
+adult
+advertisement
+mobile
+address
+massage
+garage
+defence/defense
+mayonnaise
+semi, anti
+route
+zebra
+parquet
+laboratory
+vaccine
+weekend
+
+A noun different than a verb:
+an estimate vs. to estimate
+
+Various pronunciations:
+tourist
+cemetery
+diversity, diverse
+privacy
+candidate
+independent
+
+Particular cases:
+decent vs. descent
+
+i or ay:
+combination, humidity, humility (i)
+tribunal (ay)
+direct, direction, dimension, visualization (ay in British English, i in American English)
+
+crisis - crises, thesis - theses, parenthesis - parentheses, hypothesis - hypotheses, axis - axes
+
+Difficult th sounds:
+this vs. diss
+this close vs. disclose
+this appointment vs. disappointment
+this belief vs. disbelief
+this cushion vs. discussion
+the pending vs. depending
+the test vs. detest
+that vs. dad
+they vs. day
+the mentor vs. dementor
+those vs. dose
+there vs. dare
+though vs. dough
+thought vs. fought
+thrash vs. trash
+three vs. free
+thirst vs. first
+threat vs. fret
+thread vs. Fred
+loath vs. loaf vs. to loathe
+with, without
+clothes
+enthusiastic
+aesthetic
+ophthalmologist
+hither and thither
+
+Killer sentence:
+This day, they dare their dad that the dough-threat discussion thread with Fred's clothes discloses those disbelieves the mentors diss.
+
+Short vowels:
+bet vs. bed (t vs. d, same vowel)
+but = butt
+hundred
+trustworthy
+difficult
+
+long (short vowel in British English, long in American)
+
+Long vowels:
+bath
+half
+hand
+bat vs. bad (t vs. d, same vowel)
+
+Short vowel vs. long vowel
+so vs. saw
+row vs. raw
+low vs. law
+flow vs. flaw
+bold vs. bald
+cold vs. called
+respond vs. respawned
+walk vs. work
+warn vs. worn
+come vs. calm
+rewarding vs. rewording
+lawn vs. loan
+polish vs. Polish
+hall != hole = whole
+holly vs. wholly
+cost vs. coast
+stall vs. stole
+prawn vs. prone
+ball vs. bowl
+clone vs. clown
+his vs. he's
+bin vs. been (sometimes been = bin)
+sin vs. seen = scene
+min vs. mean
+tin vs. tean
+win vs. ween = wean
+gin = jin vs. Jean
+din vs. dean
+pin, keen, lean
+it vs. eat
+hit vs. heat
+lit vs. leet = leat
+piss vs. peace = piece != peas (z)
+gig vs. geek
+ship vs. sheep
+shit vs. sheet
+bitch vs. beach
+live vs. leave
+chick vs. cheek
+kiss vs. keys
+rich vs. reach
+lick vs. leak = leek
+pick vs. peek = peak
+sick vs. seek
+fill vs. feel
+will vs. wheel
+mill vs. meal
+hill vs. heel
+pill vs. peel = peal
+rill vs. real = reel
+kill vs. keel
+sill vs. seal
+still vs. steal = steel
+bill, chill, drill, grill, deal, veal, Neil = Neale = Neal
+distraction vs. destruction
+pepper vs. paper
+have vs. halve
+but vs. bat
+cup vs. cap
+cut vs. cat
+mud vs. mad vs. med (like in medication)
+rush vs. rash
+stuff vs. staff
+lust vs. last
+hungry vs. angry
+lunch vs. launch
+fun vs. fine
+very vs. vary
+were vs. where
+pull vs. pool
+shut vs. shot
+foot vs. food
+wonder vs. wander
+funding vs. founding
+canceling vs. counseling
+desert vs. dessert
+salmon vs. sermon
+
+Killer examples:
+damn = dam vs. them (a vs. e and d vs. th)
+sieve vs. seethe (short vs. long, v vs. th)
+
+Shwa/e + r:
+earl (grey)
+curl
+pearl
+girl
+burn
+turn
+earn
+learn
+yearn
+purse
+verse
+nurse
+curse
+worse
+worst
+hurt != heart
+skirt
+nerd
+bird
+heard
+search
+merge
+emerge
+verge
+curb
+perturb
+serve
+deserve
+first
+thirst
+dirty
+thirty
+work
+word
+world
+worm
+worth
+birth
+journal
+colonel = kernel
+turkey
+quirky
+perk
+jerk
+journey
+curtain
+burden
+urban
+urgent
+Murphy
+curfew
+sermon
+earth
+there
+firm
+
+Weird:
+foul = fowl
+complement = compliment
+oral = aural
+aloud = allowed
+fraught != fraud (but the only difference being t != d)
+bail = bale
+mail = male
+sail = sale
+tail = tale
+rail != rale
+plain = plane
+discreet = discrete
+procede vs. preceed
+four = for
+one = won
+once = ones
+body = buddy
+site = sight
+nuance != new ones
+seize != sees
+tease != teas
+there = their = they're
+your = you're
+aunt = ant
+pawn = porn (in British English)
+talk = torque (in British English)
+horse = whores != who're
+morning = mourning
+to lose (= loose), to prove, to provide, to move
+higher = hire
+weather = whether
+base = bass = Bayes
+pair = pear
+hair vs. her
+brake = break
+stake = steak
+grate = great
+blue = blew
+accept vs except
+Arthur vs. author vs. offer
+famous vs. infamous
+finite vs. infinite
+to wear vs. weariness
+to live vs. live
+suit vs. suite = sweet
+face vs. preface, surface
+pronunciation vs. to pronounce
+mature vs. nature
+dear vs. to dear
+either, neither (2 variants)
+tuple (3 variants)
+schedule (2 variants)
+shire (3 variants)
+often (2 variants)
+garage (3 variants)
+homage (4 variants)
+muslim (3 different variants)
+Celtic (2 variants)
+apostrophe, catastrophe, recipe, Hermione, Yosemite, Phoebe
+beloved (past tense different than adjective or noun)
+cusine, genuine
+rural
+width
+decisive
+variable, variance
+humidity, humility
+remedying
+permeate
+vinyl
+demise
+alumni
+pretty
+concience, concious
+deliberately
+wound, tomb, womb
+wolf
+own (like moan), but drown, crown, clown
+gross
+etc.
+business
+intermediary
+entrepreneur
+pour (like your, but unlike soup or cougar, unlike shoulder or soul, unlike cousin, country, or couple, unlike loud, sound, south, house)
+theory
+thoroughly
+through
+though
+thought
+taught
+bouquet, cabaret, debut, genre
+banquet vs. banquette
+facade
+career vs. carrier
+hyacinth
+Leonard
+Worcester, Leicester
+Brunei, Kiribati, Lesotho, Laos, Papua New Guinea
+sieve
+pray = prey
+to sew = saw
+to iron (rhymes with lion)
+hierarchy
+mayor
+queue
+choir
+quinoa
+dengue
+guinea pig
+segue
+cocoa
+gauge
+chameleon, character
+caveat
+potable
+palatable
+restaurant, temperature, interesting, vegetable, comfortable, comparable
+chocolate, history, laboratory, library, ordinary
+Wednesday
+tough, enough, rough, trough, cough, laugh
+eight, night, might, light, sight, Dwight, daughter, dough (like wow), doughnut
+rhyme, rhythm, ghost, ghastly, ghetto
+hour = our, honor, honest, heir = air, exhausted, vehicle, Hannah, herb (silent in American English)
+who
+what, when, where, why, whiny, whole
+guide, guard, guitar
+knight = night, knife, knowledge, knob
+Thomas, the Thames, Thai
+wrong, write = right, wrestling, wrap, wrac, wreak, answer, sword
+Christmas, hustle, rustle, often
+autumn, column, condemn, damn, solemn
+sign = sine, foreign, sovereign, reign (= rain), paradigm, gnome, gnomic, gnostic (but agnostic), GNU (= new)
+pseudo, psychology, pneumonia, receipt, corps, aisle, island
+subtle, debt, doubt, lamb, comb, bomb, tomb, womb, thumb, dumb, numb, plumber
+all, alright, albeit (all be it), balm, calm, palm, salmon, almond, talk, walk, stalk, solder, calf, half, halve (= have), yolk (= York in British English)
