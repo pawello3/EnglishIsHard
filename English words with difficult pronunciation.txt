@@ -134,7 +134,7 @@ Long vowels:
 bath
 half
 hand
-bat vs. bad (t vs. d, same vowel)
+bat vs. bad (t vs. d, the same vowel)
 
 Short vowel vs. long vowel
 so vs. saw
@@ -264,6 +264,7 @@ turkey
 quirky
 perk
 jerk
+slur
 journey
 curtain
 burden
@@ -407,7 +408,7 @@ Thomas, the Thames, Thai
 wrong, write = right, wrestling, wrap, wrac, wreak, answer, sword
 Christmas, hustle, rustle, often
 autumn, column, condemn, damn, solemn
-sign = sine, foreign, sovereign, reign (= rain), paradigm, gnome, gnomic, gnostic (but agnostic), GNU (= new)
+sign = sine, foreign, sovereign, reign = rain, paradigm, gnome, gnomic, gnostic (but agnostic), GNU = new
 pseudo, psychology, pneumonia, receipt, corps, aisle, island
 subtle, debt, doubt, lamb, comb, bomb, tomb, womb, thumb, dumb, numb, plumber
-all, alright, albeit (all be it), balm, calm, palm, salmon, almond, talk, walk, stalk, solder, calf, half, halve (= have), yolk (= York in British English)
+all, alright, albeit (all be it), balm, calm, palm, salmon, almond, talk, walk, stalk, chalk, solder, calf, half, halve = have, yolk = York (in British English)
