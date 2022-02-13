@@ -406,7 +406,7 @@ guide, guard, guitar
 knight = night, knife, knowledge, knob
 Thomas, the Thames, Thai
 wrong, write = right, wrestling, wrap, wrac, wreak, answer, sword
-Christmas, hustle, rustle, often
+often, Christmas, hustle, rustle, whistle
 autumn, column, condemn, damn, solemn
 sign = sine, foreign, sovereign, reign = rain, paradigm, gnome, gnomic, gnostic (but agnostic), GNU = new
 pseudo, psychology, pneumonia, receipt, corps, aisle, island
