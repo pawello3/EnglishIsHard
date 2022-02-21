@@ -279,6 +279,7 @@ there
 firm
 
 Weird:
+dew = due != do (= in American English)
 foul = fowl
 complement = compliment
 oral = aural
