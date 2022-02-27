@@ -293,6 +293,7 @@ tail = tale
 rail != rale
 plain = plane
 discreet = discrete
+flower = flour
 procede vs. preceed
 four = for
 one = won
