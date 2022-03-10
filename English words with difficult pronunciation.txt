@@ -141,6 +141,7 @@ Short vowel vs. long vowel
 so vs. saw
 row vs. raw
 low vs. law
+Joe vs. jaw
 flow vs. flaw
 bold vs. bald
 cold vs. called
