@@ -19,7 +19,7 @@ to record (2nd) vs. a record (1st)
 to object (2nd) vs. an object (1st)
 to insult (2nd) vs. an insult (1st)
 to research (2nd) vs. a research (1st)
-to excerpt (2nd) vs an excerpt (1st)
+to excerpt (2nd) vs. an excerpt (1st)
 to increase (2nd) vs. an increase (1st)
 to decrease (2nd) vs. a decrease (1st)
 to import (2nd) vs. an import (1st)
@@ -27,6 +27,7 @@ to update (2nd) vs. an update (1st)
 to exploit (2nd) vs. an exploit (1st)
 compact (2nd) vs. a compact (1st)
 a concrete (2nd) vs. concrete (1st)
+to commit (2nd) vs. a commit (1st)
 
 Stress either on 1st or on 2nd syllable:
 by default (2nd) vs. default [setting] (1st)
@@ -211,6 +212,7 @@ fun vs. fine
 very vs. vary
 were vs. where
 pull vs. pool
+full vs. fool
 shut vs. shot
 foot vs. food
 wonder vs. wander
@@ -299,6 +301,7 @@ flower = flour
 procede vs. preceed
 four = for
 one = won
+none = nun
 once = ones
 body = buddy
 site = sight
@@ -322,7 +325,7 @@ brake = break
 stake = steak
 grate = great
 blue = blew
-accept vs except
+accept vs. except
 Arthur vs. author vs. offer
 famous vs. infamous
 finite vs. infinite
