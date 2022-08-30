@@ -392,6 +392,7 @@ pray = prey
 to sew = saw
 to iron (rhymes with lion)
 hierarchy
+lever
 mayor
 queue
 choir
