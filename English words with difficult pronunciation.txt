@@ -330,6 +330,7 @@ brake = break
 stake = steak
 grate = great
 blue = blew
+taut = taught
 accept vs. except
 Arthur vs. author vs. offer
 famous vs. infamous
